@@ -83,6 +83,8 @@ h1{
 iframe{
     margin: 47px 0 50px;
     max-width: 100%;
+    display: block;
+    margin: 47px auto;
 }
 
 footer{
